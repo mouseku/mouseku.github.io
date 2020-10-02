@@ -3,8 +3,8 @@ layout: post
 title:  "First Blogging"
 date:   2020-09-18T14:25:52-05:00
 author: Donggle
-categories: 소개
-tags: start
+categories: introduce
+tags: introduce
 ---
 
 
